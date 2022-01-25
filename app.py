@@ -1,3 +1,4 @@
+from distutils.log import debug
 from flask import Flask, render_template
 
 app = Flask(__name__)
@@ -16,5 +17,5 @@ def test():
 def hello(name):
     return render_template('page.html', name=name)
 
-if __name__ == "__main__":
-    app.run()
+if __name__ == '__main__':
+    app.run(debug=True, host='0.0.0.0')
