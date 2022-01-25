@@ -16,7 +16,7 @@ try:
     app = Flask(__name__)
 
 
-    @app.route('/')
+    @app.route('/light')
     def index():
         return render_template('main_white.html')
 
