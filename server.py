@@ -12,6 +12,9 @@ def index():
 def test():
     return render_template('test.html')
 
+@app.route('/hello/<name>')
+def hello(name):
+    return render_template('page.html', name=name)
 
 if __name__ == "__main__":
     app.run()
