@@ -21,9 +21,6 @@ try:
         return render_template('index.html')
 
 
-    @app.route('/devs')
-    def test():
-        return render_template('devs.html')
 
     @app.route('/credits.txt')
     def text():
