@@ -1,12 +1,25 @@
-Codex 2022 Web Development App
+Codex Web App Developers
 
+Project Managers
+NotThePillow
+Sai Satwik Godena
+=================
+Back-End Developer
+NotThePillow
+=================
+HTML Developers  
+Janav Manan      
+SHADOW1158       
+Sai Satwik Godena
+=================
+CSS Developers   
+Janav Manan      
+NotThePillow     
+SHADOW1158       
+=================
 
--Sai Satwik
--NotThePillow
-<<<<<<< HEAD
--Janav Manan
--SHADOW1158
-=======
--Janav Manan Shah
--Shadow1158
->>>>>>> 7aa43dca306dc2a110b54dd68dbe8b8f0417bc03
+Huge Thanks To:
+projects.Raspberrypi.org
+Flask Developers
+w3schools.org
+And many many more...
