@@ -1,10 +1,10 @@
 Codex Web App Developers
 
-Project Managers
-NotThePillow
+Project Managers\
+NotThePillow\
 Sai Satwik Godena
 =================
-Back-End Developer
+Back-End Developer\
 NotThePillow
 =================
 HTML Developers  
@@ -18,9 +18,9 @@ NotThePillow
 SHADOW1158       
 =================
 
-Huge Thanks To:
-projects.Raspberrypi.org
-Flask Developers
-w3schools.org
+Huge Thanks To:\
+projects.Raspberrypi.org\
+Flask Developers\
+w3schools.org\
 And many many more...
 ===================
