@@ -15,17 +15,21 @@ from flask import Flask,render_template
 try: 
     app = Flask(__name__)
 
+    @app.route('/')
+    def dark():
+        return render_template()
 
     @app.route('/light')
-    def index():
-        return render_template('main_white.html')
+    def light():
+        return render_template('main_light.html')
 
 
     @app.route('/dark')
     def dark():
         return render_template('main_black.html')
 
-    if __name__ == '__main__':
-        app.run(debug=True, host='0.0.0.0')
-except:
+except Exception:
     pass
+
+if __name__ == '__main__':
+        app.run(debug=True, host='0.0.0.0')
